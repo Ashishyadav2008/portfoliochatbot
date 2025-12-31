@@ -1,0 +1,109 @@
+{
+  "name": "Ashish Yadav",
+  "education": "Bachelor of Computer Applications (BCA)",
+  "current_status": "Final year BCA student",
+  "goal": "To become an industry-focused Data Scientist and AI Engineer who delivers business-driven solutions.",
+  "summary": "Ashish Yadav is a BCA student passionate about Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence. He has built multiple real-world projects across ML, AI, Power BI, SQL, Python, Excel, and Web Development.",
+
+  "skills": {
+    "programming_languages": ["Python", "C", "C++", "JavaScript"],
+    "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"],
+    "databases": ["MySQL", "SQL"],
+    "data_visualization": ["Power BI", "Advanced Excel"],
+    "ai_ml": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
+    "frameworks_libraries": ["Streamlit", "OpenCV", "LangChain", "FAISS"],
+    "web_development": ["HTML", "CSS", "JavaScript"],
+    "version_control": ["Git", "GitHub"]
+  },
+
+  "projects": [
+    {
+      "name": "Laptop Price Prediction",
+      "type": "Machine Learning",
+      "category": "Regression",
+      "problem": "Laptop prices vary based on specifications and brands.",
+      "solution": "Built a regression-based ML model using laptop specifications.",
+      "tools": "Python, Pandas, NumPy, Scikit-learn",
+      "outcome": "Accurate price prediction and feature importance insights."
+    },
+    {
+      "name": "Customer Churn Prediction",
+      "type": "Machine Learning",
+      "category": "Classification",
+      "problem": "Businesses lose customers without knowing churn reasons.",
+      "solution": "Developed a churn prediction classification model.",
+      "tools": "Python, Scikit-learn",
+      "outcome": "Enabled proactive customer retention."
+    },
+    {
+      "name": "Credit Card Fraud Detection",
+      "type": "Machine Learning",
+      "category": "Anomaly Detection",
+      "problem": "Fraudulent transactions cause financial losses.",
+      "solution": "Trained ML models to detect abnormal transactions.",
+      "tools": "Python, Machine Learning Algorithms",
+      "outcome": "Improved fraud detection accuracy."
+    },
+    {
+      "name": "Heart Disease Prediction",
+      "type": "Machine Learning",
+      "category": "Healthcare Analytics",
+      "problem": "Early heart disease detection is critical.",
+      "solution": "Built ML models using medical attributes.",
+      "tools": "Python, Scikit-learn",
+      "outcome": "Supported early medical diagnosis."
+    },
+    {
+      "name": "Face Mask Detection",
+      "type": "Deep Learning",
+      "category": "Computer Vision",
+      "problem": "Manual mask monitoring is inefficient.",
+      "solution": "Developed a CNN-based real-time detection system.",
+      "tools": "TensorFlow, Keras, OpenCV",
+      "outcome": "Real-time detection with high accuracy."
+    },
+    {
+      "name": "Emotion-Based Music Recommendation",
+      "type": "Deep Learning",
+      "category": "Computer Vision & Recommendation",
+      "problem": "Music preference changes with emotions.",
+      "solution": "Used facial emotion detection to recommend songs.",
+      "tools": "Python, OpenCV, Deep Learning",
+      "outcome": "Personalized music experience."
+    },
+    {
+      "name": "Power BI Dashboards",
+      "type": "Business Intelligence",
+      "category": "Data Visualization",
+      "problem": "Raw data is difficult to interpret.",
+      "solution": "Designed interactive dashboards for business insights.",
+      "tools": "Power BI, SQL, DAX",
+      "outcome": "Improved data-driven decision making."
+    },
+    {
+      "name": "Zomato Data Analysis",
+      "type": "Data Analysis",
+      "category": "EDA",
+      "problem": "Understanding food ordering behavior is complex.",
+      "solution": "Performed exploratory data analysis.",
+      "tools": "Python, Pandas, Matplotlib",
+      "outcome": "Identified customer and restaurant trends."
+    },
+    {
+      "name": "Zepto Data Analysis",
+      "type": "SQL & Analytics",
+      "category": "Database Analysis",
+      "problem": "Retail delivery data required insights.",
+      "solution": "Analyzed order data using SQL queries.",
+      "tools": "SQL, MySQL",
+      "outcome": "Generated actionable business insights."
+    }
+  ],
+
+  "contact": {
+    "phone": "+91 8604612427",
+    "email": "ashishyadav2008ay@gmail.com",
+    "github": "https://github.com/Ashishyadav2008",
+    "linkedin": "https://www.linkedin.com/in/ashish-yadav-456668314"
+  }
+}
